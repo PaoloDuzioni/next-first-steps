@@ -1,1 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Next.js first steps
+
+- Static pages
+- Dynamic pages from data
+- API endpoints
+- CSS Globals and CSS Modules
+- markdown to html data
